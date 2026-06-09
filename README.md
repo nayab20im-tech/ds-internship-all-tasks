@@ -4,11 +4,11 @@
 
 | Task | Title | Kaggle Link |
 |------|-------|-------------|
-| 1 | Term Deposit Prediction | [Run on Kaggle](https://www.kaggle.com/code/yourusername/task1-bank-marketing) |
-| 2 | Customer Segmentation | [Run on Kaggle](https://www.kaggle.com/code/yourusername/task2-customer-segmentation) |
-| 3 | Energy Forecasting | [Run on Kaggle](https://www.kaggle.com/code/yourusername/task3-energy-forecasting) |
-| 4 | Loan Default Risk | [Run on Kaggle](https://www.kaggle.com/code/yourusername/task4-loan-default) |
-| 5 | Streamlit Dashboard | [Run on Kaggle](https://www.kaggle.com/code/yourusername/task5-streamlit-dashboard) |
+| 1 | Term Deposit Prediction | [Run on Kaggle](https://www.kaggle.com/code/nayabnasir20/task1-bank-marketing) |
+| 2 | Customer Segmentation | [Run on Kaggle](https://www.kaggle.com/code/nayabnasir20/task2-customer-segmentation) |
+| 3 | Energy Forecasting | [Run on Kaggle](https://www.kaggle.com/code/nayabnasir20/task3-energy-forecasting) |
+| 4 | Loan Default Risk | [Run on Kaggle](https://www.kaggle.com/code/nayabnasir20/task4-loan-default) |
+| 5 | Streamlit Dashboard | [Run on Kaggle](https://www.kaggle.com/code/nayabnasir20/task5-streamlit-dashboard) |
 
 ## 📊 Quick Links to Datasets
 - [Task 1 Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip)
